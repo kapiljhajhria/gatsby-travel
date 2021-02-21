@@ -31,11 +31,11 @@ export const Trips = ({ heading }) => {
     const tripsArray = []
     data.allTripsJson.edges.forEach((item, index) => {
       tripsArray.push(
-        <ProductCard>
+        <ProductCard key={index}>
           <ProductImg
             fluid={item.node.img.childImageSharp.fluid}
             alt={item.node.alt}
-            key={index}
+            key={item.node.alt}
           />
           <ProductInfo>
             <TextWrap>
