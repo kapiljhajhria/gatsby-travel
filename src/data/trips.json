@@ -1,0 +1,26 @@
+[
+  {
+    "img": "../assets/images/image-01.jpg",
+    "alt": "Tian Tan Buddha",
+    "name": "Tian Tan Buddha",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/image-02.jpg",
+    "alt": "Ad Deir",
+    "name": "Ad Deir",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/image-03.jpg",
+    "alt": "Humayun Tomb",
+    "name": "Humayun Tomb",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/image-04.jpg",
+    "alt": "Dunhindia Falls",
+    "name": "Dunhindia Falls",
+    "button": "View Destination"
+  }
+]
